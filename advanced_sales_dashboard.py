@@ -8,7 +8,6 @@ import json
 import gspread
 from google.oauth2.service_account import Credentials
 from io import StringIO
-import os
 
 # Page configuration
 st.set_page_config(
